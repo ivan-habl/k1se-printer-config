@@ -1,2 +1,5 @@
 printer-*.cfg
 .theme/
+__pycache__/
+*.pyc
+.moonraker.conf.bkp
